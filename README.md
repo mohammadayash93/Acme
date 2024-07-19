@@ -33,6 +33,5 @@ This project is a proof of concept for the Acme Widget Co sales system. It inclu
 
 Run the tests using PHPUnit:
     ```
-    vendor/bin/phpunit tests     
-    
+    ./vendor/bin/phpunit tests         
     ```
