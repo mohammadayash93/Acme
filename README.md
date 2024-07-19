@@ -15,7 +15,7 @@ This project is a proof of concept for the Acme Widget Co sales system. It inclu
 
 1. Clone the repository:
     ```
-    git clone <repository_url>
+    git clone https://github.com/mohammadayash93/Acme.git
     cd <repository_directory>
     ```
 
@@ -32,3 +32,7 @@ This project is a proof of concept for the Acme Widget Co sales system. It inclu
 ## Running Tests
 
 Run the tests using PHPUnit:
+    ```
+    vendor/bin/phpunit tests     
+    
+    ```
