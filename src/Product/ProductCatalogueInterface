@@ -1,0 +1,10 @@
+<?php
+
+namespace App\Product;
+
+interface ProductCatalogueInterface
+{
+    public function addProduct(Product $product): void;
+
+    public function getProduct(string $code): ?Product;
+}
